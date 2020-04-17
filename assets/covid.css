@@ -1,3 +1,7 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 body
 {
 	color: white;
@@ -10,6 +14,43 @@ body
 
 
 }
+/*=================*/
+.kum
+{
+	padding-top: 200px;
+	text-align: center;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+/*====================*/
 .aga
 {
 	padding-top: 55px;
@@ -58,10 +99,15 @@ body
     background: #323334;
     transition: background 300ms;
 }
+hr
+{
+	background-color: white;
+	opacity: 0.8;
+}
 /*=================================*/
 .jumbotron
 {
-	margin-top: 200px;
+	margin-top: 60px;
 	margin-bottom: 50px;
 	background-color: #383535;
 }
