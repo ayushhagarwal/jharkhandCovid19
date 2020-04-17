@@ -1,0 +1,124 @@
+body
+{
+	color: white;
+	font-size: large;
+	font-family: 'Roboto', sans-serif;
+}
+body
+{
+	 background-color: black;
+
+
+}
+.aga
+{
+	padding-top: 55px;
+}
+.ic
+{
+	margin-left: 500px;
+
+}
+/*============NAVBAR====================*/
+.navbar
+{
+	height: 40px;
+}
+#mainNavbar .navbar-brand
+{
+	color:#70B8F8;
+	font-weight: 200 !important;
+	
+}
+#mainNavbar .nav-link 
+{
+	float:right;
+	color: white;
+}
+#mainNavbar .nav-link:after
+{
+     content:' ';
+     display:block;
+     width:0;
+     height:4px;
+     background:black;
+     transition: width .3s;
+}
+#mainNavbar .nav-link:hover:after
+{
+	width:100%;
+	transition: width .3s;
+}
+#mainNavbar
+{
+	font-size: 1.2rem;
+	font-weight: 200;
+}
+.navbar.scrolled {
+    background: #323334;
+    transition: background 300ms;
+}
+/*=================================*/
+.jumbotron
+{
+	margin-top: 200px;
+	margin-bottom: 50px;
+	background-color: #383535;
+}
+.page-section {
+  padding: 8rem 0;
+  display: flex;
+  height: 100%;
+}
+
+.page-section .page-section-heading {
+  font-size: 2.25rem;
+  line-height: 2rem;
+}
+@media (min-width: 992px) {
+  .page-section .page-section-heading {
+    font-size: 3rem;
+    line-height: 2.5rem;
+  }
+}
+.soc
+{
+	padding-top: 40px;
+}
+.soc1
+{
+	padding-top: 150px;
+}
+#ayush
+{
+	margin-top: 45px;
+}
+.stay
+{
+	margin-left: 500px;
+}
+.bg-primary
+{
+	background-image: url("https://images.unsplash.com/photo-1574482620826-40685ca5ebd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-primary2
+{
+	background-image: url("https://images.unsplash.com/photo-1584466990376-09422a2b033a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-primary3
+{
+	background-image: url("https://images.unsplash.com/photo-1585818104904-e9479926defb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul
+{
+	list-style: none;
+}
