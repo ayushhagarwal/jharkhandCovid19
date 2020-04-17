@@ -51,6 +51,10 @@ body
   }
 }
 /*====================*/
+.exc
+{
+	list-style: upper-alpha;
+}
 .aga
 {
 	padding-top: 55px;
@@ -58,7 +62,6 @@ body
 .ic
 {
 	margin-left: 500px;
-
 }
 /*============NAVBAR====================*/
 .navbar
@@ -142,6 +145,14 @@ hr
 .stay
 {
 	margin-left: 500px;
+}
+.bg-primary0
+{
+	background-image: url("https://images.unsplash.com/photo-1579781403289-674275bc71c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=387&q=80");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 .bg-primary
 {
