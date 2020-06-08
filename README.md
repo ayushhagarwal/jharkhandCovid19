@@ -1,6 +1,6 @@
 # JHARKHAND State COVID-19 Info Site
-### A website to provvide each and every information about the COVID-19 situtation in tht state Jharkhand in India.
-##This repository shows the authentic and verified information for the people. Also this is in Hindi Language so that the it has a better reach to all sections of the society.
+### A website to provide information about the COVID-19 situtation in the state Jharkhand in India.
+##This repository shows the authentic and verified information for the people. Also this is in Hindi Language which is the local language for the state so that the it has a better reach to every kind of people.
 <br>
 ## Tech Stack-
 * HTML 5
